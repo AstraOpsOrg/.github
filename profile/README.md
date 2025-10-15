@@ -1,10 +1,20 @@
-# AstraOps
-
 <div align="center">
-  <h1 align="center"><img src = "" width = 45px></picture> AstraOps </h1>
-    <h4 align="center">A tool to automate the deployment of containerized applications on AWS EKS securely within the user's account.</h4>
+  <h1 align="center">
+  <img
+    width="100"
+    height="100"
+    alt="astraops"
+    src="https://github.com/user-attachments/assets/4eee67ad-c27b-4113-ae8f-15d3d996365c"
+  /><br>
+  AstraOps
+</h1>
+   
+
+
+<h4 align="center">A tool to automate the deployment of containerized applications on AWS EKS securely within the user's account.</h4>
   <a href="https://github.com/AstraOpsOrg">
-    <img src="" alt="snake" />
+        <img  src="https://github.com/AstraOpsOrg/.github/blob/main/profile/snake.svg" alt="snake" />
+
   </a>
 </div>
 
